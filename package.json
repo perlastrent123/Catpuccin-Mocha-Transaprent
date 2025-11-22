@@ -1,0 +1,21 @@
+{
+  "name": "mochaTransparent",
+  "displayName": "tmTheme",
+  "description": "Catpuccin Mocha with transparency!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Catpuccin Mocha Transparent",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Catpuccin Mocha Transparent-color-theme.json"
+      }
+    ]
+  }
+}

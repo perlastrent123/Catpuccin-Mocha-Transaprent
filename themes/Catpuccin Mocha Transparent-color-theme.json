@@ -30,7 +30,7 @@
 		"editor.findMatchBackground": "#ffffff40",
 		"editor.findMatchHighlightBackground": "#ffffff30",
 		"editor.foldBackground": "#00000020",
-		"editor.inactiveSelectionBackground": "#3a3d41",
+		"editor.inactiveSelectionBackground": "#3a3d41e2",
 		"editor.lineHighlightBackground": "#00000030",
 		"editor.lineHighlightBorder": "#00000000",
 		"editor.selectionBackground": "#ffffff20",
