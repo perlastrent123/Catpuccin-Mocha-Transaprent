@@ -1,6 +1,6 @@
 {
   "name": "mochaTransparent",
-  "displayName": "tmTheme",
+  "displayName": "mochaTransparent",
   "description": "Catpuccin Mocha with transparency!",
   "version": "0.0.1",
   "engines": {
@@ -17,5 +17,10 @@
         "path": "./themes/Catpuccin Mocha Transparent-color-theme.json"
       }
     ]
+  },
+  "publisher": "trentquacks",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/perlastrent123/Catpuccin-Mocha-Transaprent.git"
   }
 }
