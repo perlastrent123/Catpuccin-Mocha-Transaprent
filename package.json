@@ -2,7 +2,7 @@
   "name": "mocha-transparent",
   "displayName": "Catpuccin Mocha Transparent Theme",
   "description": "Catpuccin Mocha with transparency!",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.100.2"
   },
