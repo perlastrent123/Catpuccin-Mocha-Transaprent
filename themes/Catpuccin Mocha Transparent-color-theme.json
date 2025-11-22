@@ -141,7 +141,7 @@
 		"textLink.foreground": "#ffffffe0",
 		"titleBar.activeBackground": "#0000008d",
 		"titleBar.border": "#00000000",
-		"titleBar.inactiveBackground": "#00000000",
+		"titleBar.inactiveBackground": "#0000008d",
 		"tree.inactiveIndentGuidesStroke": "#00000000",
 		"tree.indentGuidesStroke": "#00000000",
 		"welcomePage.progress.foreground": "#ffffffaa",
