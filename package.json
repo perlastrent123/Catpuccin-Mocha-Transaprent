@@ -1,6 +1,6 @@
 {
-  "name": "mochaTransparent",
-  "displayName": "mochaTransparent",
+  "name": "mocha-transparent",
+  "displayName": "Catpuccin Mocha Transparent Theme",
   "description": "Catpuccin Mocha with transparency!",
   "version": "0.0.1",
   "engines": {
